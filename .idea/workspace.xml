@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/LoginController.php" line="59" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a20497c-50af-4a25-8191-f5238d237cbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_github.php" afterPath="$PROJECT_DIR$/test_github.php" />
-    </list>
+    <list default="true" id="3a20497c-50af-4a25-8191-f5238d237cbf" name="Default" comment="" />
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -71,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/test_github.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2293578" vertical-offset="0" max-vertical-offset="872">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="e#6#94#0#PHP" expanded="true" />
               </folding>
@@ -778,7 +775,7 @@
     <entry file="file://$PROJECT_DIR$/test_github.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2293578" vertical-offset="0" max-vertical-offset="872">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
